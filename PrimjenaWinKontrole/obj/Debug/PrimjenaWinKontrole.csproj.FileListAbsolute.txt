@@ -1,0 +1,11 @@
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\bin\Debug\PrimjenaWinKontrole.exe.config
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\bin\Debug\PrimjenaWinKontrole.exe
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\bin\Debug\PrimjenaWinKontrole.pdb
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\obj\Debug\PrimjenaWinKontrole.csprojAssemblyReference.cache
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\obj\Debug\PrimjenaWinKontrole.Form1.resources
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\obj\Debug\PrimjenaWinKontrole.Properties.Resources.resources
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\obj\Debug\PrimjenaWinKontrole.csproj.GenerateResource.cache
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\obj\Debug\PrimjenaWinKontrole.csproj.CoreCompileInputs.cache
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\obj\Debug\PrimjenaWinKontrole.exe
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\obj\Debug\PrimjenaWinKontrole.pdb
+D:\Zadace\PrimjenaWinKontrole\PrimjenaWinKontrole\obj\Debug\PrimjenaWinKontrole.FormaText.resources
